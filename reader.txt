@@ -1,0 +1,33 @@
+ID		Name			Address			Phone		Email
+0001		Kiet Nguyen		Kien Giang		0326609063	tuankiet9063@gmail.com
+0002		Khoi Nguyen		Kien Giang		0326609061	khoimk1511@gmail.com
+
+0001
+Kiet Nguyen
+Kien Giang
+0326609063
+tuankiet9063@gmail.com
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ISBN			Title					Author				Publisher			Category			Quantity	Price
+978-3-16-148410-0	The Art of Programming			John Codingto			TechPublish Co.			Programming			50		29.99
+978-0-330-25864-0	1984					George Orwell			Penguin Books			Fiction, Dystopian		100		10.99
+
+978-3-16-148410-0
+The Art of Programming
+John Codingto
+TechPublish Co.
+50
+Programming
+29.99
+
+978-0-330-25864-0
+1984
+George Orwell
+Penguin Books
+100
+Fiction, Dystopian
+10.99
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ReaderID	ReaderName			BookName				BookBorrowingDay
